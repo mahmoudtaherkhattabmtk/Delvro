@@ -1,2 +1,2 @@
 # Delvro
-Web page show the services of delvro start-up
+Web page shows the services of Delvro start-up
